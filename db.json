@@ -1,5 +1,5 @@
 {
-  "employee": [
+  "employees": [
     { 
       "id": 1, 
       "firstName": "Peter",
@@ -29,9 +29,11 @@
       "email": "tonyblair@ymail.com"
     }
   ],
-  "user": {
-    "name": "Admin Demo",
-    "email": "admin@ymail.com",
-    "password": "secret"
-  }
+  "users": [
+      {
+      "name": "Admin Demo",
+      "email": "admin@ymail.com",
+      "password": "secret"
+    }
+  ]
 }
