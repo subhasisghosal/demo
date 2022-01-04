@@ -5,28 +5,32 @@
       "firstName": "Peter",
       "lastName": "Parker",
       "company": "Schoen Inc",
-      "email": "peterparker@ymail.com"
+      "email": "peterparker@ymail.com",
+      "isEditing": false
     },
     { 
       "id": 2, 
       "firstName": "Liza",
       "lastName": "Hayes",
       "company": "Bergnaum Inc",
-      "email": "lizahayes@ymail.com"
+      "email": "lizahayes@ymail.com",
+      "isEditing": false
     },
     { 
       "id": 3, 
       "firstName": "Florence",
       "lastName": "Green",
       "company": "Schmidt - Ritchie",
-      "email": "florencegreen@ymail.com"
+      "email": "florencegreen@ymail.com",
+      "isEditing": false
     },
     { 
       "id": 4, 
       "firstName": "Tony",
       "lastName": "Blair",
       "company": "Schmidt - Ritchie",
-      "email": "tonyblair@ymail.com"
+      "email": "tonyblair@ymail.com",
+      "isEditing": false
     }
   ],
   "users": [
